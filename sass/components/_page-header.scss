@@ -1,0 +1,11 @@
+// общий контейнер хедера
+.header-nav {
+  @extend %flex-align-center;
+}
+.main-nav {
+  @extend %flex-align-center;
+}
+
+.page-header {
+  border: 1px solid #ececec;
+}
